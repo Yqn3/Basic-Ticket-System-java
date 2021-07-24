@@ -72,7 +72,7 @@ public class ticket
             return;
         case "no": 
             yn = true;
-            System.out.print("Enter agian\n");
+            System.out.print("Enter Again\n");
             break;
         }
     }
