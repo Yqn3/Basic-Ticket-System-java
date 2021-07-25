@@ -69,7 +69,7 @@ public class ticket
         switch(yesno){
         case "yes":
             yn = false;
-            System.out.println("Thanks You, Vist us again");
+            System.out.println("Thank You, Visit us again");
             return;
         case "no": 
             yn = true;
